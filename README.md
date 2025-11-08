@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm Md. Prince Mahmud</h1>
+
 <p align="center">AI • Deep Learning • Computer Vision • Research</p>
+
 <p align="center">
   <a href="https://github.com/mahmudprince98">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" />
@@ -7,30 +9,13 @@
   <a href="https://www.researchgate.net/profile/Md-Mahmud-106">
     <img src="https://img.shields.io/badge/ResearchGate-Profile-brightgreen?style=flat&logo=researchgate" />
   </a>
-  <!-- Replace # with your LinkedIn link after you send it -->
-  <a href="#">
+  <a href="https://www.linkedin.com/in/mahmudprince098/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" />
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudprince98&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudprince98&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudprince98&theme=tokyo-night" />
-</p>
-
-
 **MSc Computer Science (AI Track)** @ Philipps-Universität Marburg, Germany  
 **BSc Computer Science & Engineering** @ Daffodil International University  
-
 
 ---
 
@@ -54,7 +39,7 @@ Deep-learning based model for agricultural disease recognition.
 |--------|-------------|------|
 | **Lychee Disease Classification** | VGG16/ResNet50 for leaf disease detection | TensorFlow, Python |
 | **Face Mask Detection (CNN)** | Detects masked vs unmasked faces | Keras, OpenCV |
-| **Portfolio Website Project** | Personal academic profile website | HTML / CSS / JS |
+| **Portfolio Website Project** | Personal academic & professional website | HTML / CSS / JS |
 
 ---
 
@@ -65,12 +50,24 @@ Deep-learning based model for agricultural disease recognition.
 
 ---
 
-### 🌍 Let's Connect
-📧 Email: `prince.mahmud02@gmail.com`  
-🔗 GitHub: https://github.com/mahmudprince98  
-🔗 ResearchGate: https://www.researchgate.net/profile/Md-Mahmud-106  
-🔗 LinkedIn: *(Send your link — I’ll insert it professionally)*  
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudprince98&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudprince98&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudprince98&theme=tokyo-night" />
+</p>
 
 ---
 
-*“Consistency creates excellence.”*
+---
+
+<p align="center"><b><i>“Use your imagination. That’s where innovation begins.”</i></b></p>
+
+<p align="right"><i>— Md. Prince Mahmud</i></p>
+
