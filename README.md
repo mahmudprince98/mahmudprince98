@@ -1,73 +1,80 @@
-<h1 align="center">👋 Hi, I'm Md. Prince Mahmud</h1>
+<div align="center">
 
-<p align="center">AI • Deep Learning • Computer Vision • Research</p>
+<img src="https://avatars.githubusercontent.com/mahmudprince98" width="120" height="120" style="border-radius:50%;"/>
 
-<p align="center">
-  <a href="https://github.com/mahmudprince98">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" />
-  </a>
-  <a href="https://www.researchgate.net/profile/Md-Mahmud-106">
-    <img src="https://img.shields.io/badge/ResearchGate-Profile-brightgreen?style=flat&logo=researchgate" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahmudprince098/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" />
-  </a>
-</p>
+# 👋 Hi, I'm **Md. Prince Mahmud**
 
-**MSc Computer Science (AI Track)** @ Philipps-Universität Marburg, Germany  
-**BSc Computer Science & Engineering** @ Daffodil International University  
+**AI • Deep Learning • Computer Vision • Research**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mahmudprince98)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-brightgreen?logo=researchgate)](https://www.researchgate.net/profile/Md-Mahmud-106)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mahmudprince098/)
 
 ---
 
-### 🧠 Research & Technical Interests
+**MSc Computer Science (AI Track)** @ Philipps-Universität Marburg, Germany  
+**BSc Computer Science & Engineering** @ Daffodil International University
+
+</div>
+
+---
+
+## 🔬 Research & Technical Interests
 - Artificial Intelligence & Deep Learning  
 - Computer Vision & Image Processing  
 - Medical & Agricultural Image Classification  
-- Neural Network Optimization & Explainability (Grad-CAM)
+- Neural Network Interpretability (Grad-CAM / Explainability)
 
 ---
 
-### 🔬 Research Work
-**Lychee Tree Disease Classification using Transfer Learning**  
-Deep-learning based model for agricultural disease recognition.  
-📄 ResearchGate: https://www.researchgate.net/profile/Md-Mahmud-106
+## 🧪 Research Work
+
+**Lychee Disease Classification using Transfer Learning**  
+Deep-learning based approach for early detection of leaf diseases in agriculture.  
+🔗 ResearchGate: https://www.researchgate.net/profile/Md-Mahmud-106
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
+
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Lychee Disease Classification** | VGG16/ResNet50 for leaf disease detection | TensorFlow, Python |
-| **Face Mask Detection (CNN)** | Detects masked vs unmasked faces | Keras, OpenCV |
-| **Portfolio Website Project** | Personal academic & professional website | HTML / CSS / JS |
+| [Lychee Disease Classification](https://github.com/mahmudprince98/lychee-disease-classification) | VGG16/ResNet50 for leaf disease recognition | TensorFlow, Python |
+| [Face Mask Detection (CNN)](https://github.com/mahmudprince98/Face-Mask-Detection-CNN-) | Detects masked vs unmasked faces | Keras, OpenCV |
+| [Portfolio Website](https://github.com/mahmudprince98/portfolio-project) | Personal academic & professional website | HTML / CSS / JS |
 
 ---
 
-### 🛠️ Skills & Tools
-- **Languages:** Python, C/C++, SQL  
-- **Libraries:** PyTorch, TensorFlow, Keras, OpenCV, NumPy, Pandas  
-- **Tools:** Git, Jupyter Notebook, VS Code  
+## 🛠️ Skills & Tools
+
+**Languages:**  
+`Python` `C/C++` `SQL`
+
+**AI / ML Libraries:**  
+`PyTorch` `TensorFlow` `Keras` `OpenCV` `NumPy` `Pandas`
+
+**Tools:**  
+`Git` `VS Code` `Jupyter Notebook`
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudprince98&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+## 📊 GitHub Stats (Premium Style)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudprince98&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudprince98&theme=tokyo-night" />
-</p>
+| | |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api?username=mahmudprince98&show_icons=true&theme=tokyonight&hide_border=false" height="170px"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudprince98&theme=tokyonight&hide_border=false" height="170px"/> |
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudprince98&theme=tokyo-night&hide_border=false" width="95%"/>
+
+</div>
 
 ---
 
----
-
-<p align="center"><b><i>“Use your imagination. That’s where innovation begins.”</i></b></p>
-
-<p align="right"><i>— Md. Prince Mahmud</i></p>
-
+<br>
+<p align="center"><i>“Use your imagination. That’s where innovation begins.”</i></p>
+<p align="center">— Md. Prince Mahmud</p>
+<br>
