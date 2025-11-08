@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/mahmudprince98" width="120" height="120" style="border-radius:50%;"/>
-
 # 👋 Hi, I'm **Md. Prince Mahmud**
 
 **AI • Deep Learning • Computer Vision • Research**
@@ -20,17 +18,18 @@
 ---
 
 ## 🔬 Research & Technical Interests
-- Artificial Intelligence & Deep Learning  
-- Computer Vision & Image Processing  
-- Medical & Agricultural Image Classification  
-- Neural Network Interpretability (Grad-CAM / Explainability)
+
+- 🤖 **Artificial Intelligence & Deep Learning**  
+- 👁️ **Computer Vision & Image Processing**  
+- 🌱 **Medical & Agricultural Image Classification**  
+- 🧠 **Neural Network Interpretability (Grad-CAM / Explainability)**  
 
 ---
 
 ## 🧪 Research Work
 
 **Lychee Disease Classification using Transfer Learning**  
-Deep-learning based approach for early detection of leaf diseases in agriculture.  
+Deep-learning based method for early detection of leaf diseases in agriculture.  
 🔗 ResearchGate: https://www.researchgate.net/profile/Md-Mahmud-106
 
 ---
@@ -58,17 +57,17 @@ Deep-learning based approach for early detection of leaf diseases in agriculture
 
 ---
 
-## 📊 GitHub Stats (Premium Style)
+## 📊 GitHub Stats (Premium)
 
 <div align="center">
 
 | | |
 |---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=mahmudprince98&show_icons=true&theme=tokyonight&hide_border=false" height="170px"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudprince98&theme=tokyonight&hide_border=false" height="170px"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=mahmudprince98&show_icons=true&theme=tokyonight" height="170px"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudprince98&theme=tokyonight" height="170px"/> |
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudprince98&theme=tokyo-night&hide_border=false" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudprince98&theme=tokyo-night" width="95%"/>
 
 </div>
 
