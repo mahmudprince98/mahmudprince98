@@ -14,15 +14,17 @@ Focused on developing explainable AI systems for real-world visual understanding
 
 <table align="center">
 <tr>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Philipps-Universit%C3%A4t_Marburg_logo.svg" height="65"><br>
-<b>MSc Computer Science (AI Track)</b><br>
-Philipps-Universität Marburg, Germany
+<td align="center" width="420">
+
+🎓 **MSc Computer Science (AI Track)**  
+*Philipps-Universität Marburg, Germany* 🇩🇪
+
 </td>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Daffodil_International_University_logo.svg/512px-Daffodil_International_University_logo.svg.png" height="65"><br>
-<b>BSc Computer Science & Engineering</b><br>
-Daffodil International University, Bangladesh
+<td align="center" width="420">
+
+🎓 **BSc Computer Science & Engineering**  
+*Daffodil International University, Bangladesh* 🇧🇩
+
 </td>
 </tr>
 </table>
@@ -43,7 +45,7 @@ Daffodil International University, Bangladesh
 ## 🧪 Research Work
 
 **Lychee Disease Classification using Transfer Learning**  
-Deep-learning based approach for early detection of leaf diseases in agriculture.  
+Deep-learning based approach for early detection of agricultural leaf diseases.  
 🔗 ResearchGate: https://www.researchgate.net/profile/Md-Mahmud-106
 
 ---
@@ -52,7 +54,7 @@ Deep-learning based approach for early detection of leaf diseases in agriculture
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Lychee Disease Classification](https://github.com/mahmudprince98/lychee-disease-classification) | VGG16/ResNet50 for leaf disease recognition | TensorFlow, Python |
+| [Lychee Disease Classification](https://github.com/mahmudprince98/lychee-disease-classification) | VGG16/ResNet50 for detecting leaf disease | TensorFlow, Python |
 | [Face Mask Detection (CNN)](https://github.com/mahmudprince98/Face-Mask-Detection-CNN-) | Detects masked vs unmasked faces | Keras, OpenCV |
 | [Portfolio Website](https://github.com/mahmudprince98/portfolio-project) | Personal academic & professional website | HTML / CSS / JS |
 
