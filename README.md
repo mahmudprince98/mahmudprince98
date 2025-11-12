@@ -54,10 +54,10 @@ Deep-learning based approach for early detection of agricultural leaf diseases.
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [Lychee Disease Classification](https://github.com/mahmudprince98/Lychee-Disease-Classification) <br> [Live Repo](https://github.com/mahmudprince98/Lychee-Disease-Classification) • [ResearchGate Paper](https://www.researchgate.net/profile/Md-Mahmud-106) | Deep-learning transfer learning (VGG16 / ResNet50) for detecting lychee leaf diseases. <br> **Result:** Achieved ~92% validation accuracy on test dataset. | TensorFlow, Python |
-| [Face Mask Detection (CNN)](https://github.com/mahmudprince98/Face-Mask-Detection-CNN) <br> [Live Repo](https://github.com/mahmudprince98/Face-Mask-Detection-CNN) | Detects masked vs unmasked faces using Convolutional Neural Networks (CNN). <br> **Result:** Achieved ~94% test accuracy using Keras and OpenCV. | Keras, OpenCV |
-| [Cat vs Dog Classification (CNN)](https://github.com/mahmudprince98/Cat-vs-Dog-CNN) <br> [Live Repo](https://github.com/mahmudprince98/Cat-vs-Dog-CNN) | Classifies cats and dogs using CNN-based image recognition. <br> **Result:** Achieved ~90% accuracy using custom CNN trained on Kaggle dataset. | PyTorch, TensorFlow |
-| [Portfolio Website](https://github.com/mahmudprince98/Portfolio-Website) <br> [Live Repo](https://github.com/mahmudprince98/Portfolio-Website) | Personal academic & professional portfolio showcasing research, GitHub, and LinkedIn. | HTML / CSS / JS |
+| [Lychee Disease Classification](https://github.com/mahmudprince98/Lychee-Disease-Classification) <br> [Live Repo](https://github.com/mahmudprince98/Lychee-Disease-Classification) • [Research Paper](https://www.researchgate.net/profile/Md-Mahmud-106) | Deep-learning transfer learning (VGG16 / Inception-V3 / Xception) for detecting lychee leaf diseases. <br> **Result:** Achieved **92.67 % test accuracy** using Inception-V3 on a custom Lychee leaf dataset. | TensorFlow, Python |
+| [Face Mask Detection (CNN)](https://github.com/mahmudprince98/Face-Mask-Detection-CNN) <br> [Live Repo](https://github.com/mahmudprince98/Face-Mask-Detection-CNN) | Detects masked vs. unmasked faces using Convolutional Neural Networks (CNN). <br> **Result:** Achieved **94 % test accuracy** using Keras and OpenCV. | Keras, OpenCV |
+| [Cat vs Dog Classification (CNN)](https://github.com/mahmudprince98/Cat-vs-Dog-CNN) <br> [Live Repo](https://github.com/mahmudprince98/Cat-vs-Dog-CNN) | Classifies cats and dogs using a custom CNN trained on Kaggle’s Dogs vs Cats dataset. <br> **Result:** Achieved **90 % accuracy** using PyTorch CNN model. | PyTorch, TensorFlow |
+| [Portfolio Website](https://github.com/mahmudprince98/Portfolio-Website) <br> [Live Repo](https://github.com/mahmudprince98/Portfolio-Website) | Personal academic & professional website showcasing AI research, GitHub projects, and LinkedIn profile. | HTML / CSS / JS |
 
 
 
