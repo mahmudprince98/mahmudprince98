@@ -57,6 +57,7 @@ Deep-learning based approach for early detection of agricultural leaf diseases.
 | [Lychee Disease Classification](https://github.com/mahmudprince98/lychee-disease-classification) | VGG16/ResNet50 for detecting leaf disease | TensorFlow, Python |
 | [Face Mask Detection (CNN)](https://github.com/mahmudprince98/Face-Mask-Detection-CNN-) | Detects masked vs unmasked faces | Keras, OpenCV |
 | [Portfolio Website](https://github.com/mahmudprince98/portfolio-project) | Personal academic & professional website | HTML / CSS / JS |
+| Cat vs Dog Classification (CNN) | Classifies cats and dogs using CNN-based image recognition | PyTorch, TensorFlow |
 
 ---
 
